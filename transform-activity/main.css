@@ -5,6 +5,10 @@ body  {
 }
 main {
   background-color: mediumaquamarine;
+  border-style: solid;
+  border-left: 5px black;
+  border-top: none;
+  border-bottom: none;
   height: 90vh;
   width: 100vh;
   margin: auto;
